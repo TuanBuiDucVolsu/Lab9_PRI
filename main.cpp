@@ -9,6 +9,9 @@ int main(int argc, char** argv) {
 	cin>> a >> b;
 	cout<<"A + B = "<<a+b<<"\n";
 	cout<<"A - B = "<<a-b<<"\n";
+<<<<<<< HEAD
 	cout<<"A : B = "<<a/b<<"\n";
+=======
+>>>>>>> 256f34640eb69c520551bcca9967e0fa0e462905
 	return 0;
 }
